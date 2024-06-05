@@ -19,4 +19,4 @@ Tech I sometimes use: ![Godot](https://img.shields.io/badge/Godot-282C34?logo=go
 - 🌍 Ecology
 - 🏗️ Contributing to Open-Source software
 
-💬 Don't hesitate to contact me: open an issue on this repo!
+💬 Don't hesitate to contact me using [this form](https://forms.gle/GEYD2Wkfo3pPzrMi8)!
