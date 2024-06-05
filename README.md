@@ -3,8 +3,8 @@
 🎓 I'm a very versatile graduate software engineer.
 
 - 😎 I’m currently an XR developer in the aerospace industry ✈️
-- 🌱 On my free time, I’m developing a video game about emergency services management 🚒🚓🚑
-- ⚡ Fun fact: I'm quite good at riding a unicycle
+- 🌱 In my free time, I develop a video game about emergency services management 🚒🚓🚑
+- ⚡ Fun fact: I'm quite good at riding a unicycle 🛞
 
 Tech I use daily: ![Unity](https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=000000) ![C#](https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=512BD4) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-282C34?logo=visualstudio&logoColor=5C2D91) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visualstudiocode&logoColor=512BD4) ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717) ![GitLab](https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26) ![Bitbucket](https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket&logoColor=0052CC) ![Jira](https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC)
 
